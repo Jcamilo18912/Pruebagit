@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+*{
+    list-style: none;
+}
+header{
+    position: relative;
+    margin-top: -8px;
+    margin-left: -9px;
+    width: 1409px;
+    height: 120px;
+    background-color: lawngreen;
+}
+.inicio{
+    text-decoration: none;
+    font-family:'Pacifico', cursive; 
+    font-size: 68px;
+    position: absolute;
+    margin-top: -120px;
+}
+#Titulo{
+    position: relative;
+    font-family: 'Pacifico', cursive;
+    margin-top: -79px;
+    margin-left: 700px;
+    color: rgb(232, 7, 248);
+    
+
+}
+#imagend{
+    position: relative;
+    margin-left: 20%;
+
+
+
+}
+.lista1{
+    margin-left: 35%;
+    margin-top: -10%;
+
+}
+.Nombres p{
+    display: block;
+    border: 2px solid gray;
+    width: 200px;
+    height: 25px;
+    text-align: center;
+    margin-left: 62%;
+    margin-top: -13%;
+}
+.Apellidos p{
+    display: block;
+    border: 2px solid gray;
+    width: 200px;
+    height: 25px;
+    text-align: center;
+    margin-left: 62%;
+    margin-top: 2%;
+
+}
+.Correoelectronico p{
+    display: block;
+    border: 2px solid gray;
+    width: 200px;
+    height: 25px;
+    text-align: center;
+    margin-left: 62%;
+    margin-top: 2%;
+
+}
+
+.editar{
+    position: absolute;
+    text-decoration: none;
+    background-color: rgb(44, 9, 243);
+    color: rgb(255, 255, 255);
+    display: block;
+    border: 2px solid gray;
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    margin-left: 38%;
+    margin-top: 10%;
+    
+}
+.cerrar{
+    position: absolute;
+    text-decoration: none;
+    display: block;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 9, 9);
+    border: 2px solid gray;
+    text-align: center;
+    width: 150px;
+    height: 25px;
+    margin-left: 53%;
+    margin-top: 10%;
+}
